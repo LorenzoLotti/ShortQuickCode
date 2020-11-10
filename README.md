@@ -1,2 +1,2 @@
 # Short quick code
-Quick and short code in C#.
+Short and quick code in any language.
